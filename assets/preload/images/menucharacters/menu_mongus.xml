@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_mongus.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mongus idle0000" x="10" y="10" width="189" height="217"/>
+	<SubTexture name="mongus idle0001" x="10" y="10" width="189" height="217"/>
+	<SubTexture name="mongus idle0002" x="209" y="10" width="189" height="217"/>
+	<SubTexture name="mongus idle0003" x="209" y="10" width="189" height="217"/>
+	<SubTexture name="mongus idle0004" x="10" y="237" width="189" height="217"/>
+	<SubTexture name="mongus idle0005" x="10" y="237" width="189" height="217"/>
+	<SubTexture name="mongus idle0006" x="209" y="237" width="189" height="217"/>
+	<SubTexture name="mongus idle0007" x="209" y="237" width="189" height="217"/>
+	<SubTexture name="mongus idle0008" x="10" y="464" width="189" height="217"/>
+	<SubTexture name="mongus idle0009" x="10" y="464" width="189" height="217"/>
+	<SubTexture name="mongus idle0010" x="209" y="464" width="189" height="217"/>
+	<SubTexture name="mongus idle0011" x="209" y="464" width="189" height="217"/>
+	<SubTexture name="mongus idle0012" x="209" y="464" width="189" height="217"/>
+	<SubTexture name="mongus idle0013" x="209" y="464" width="189" height="217"/>
+</TextureAtlas>
