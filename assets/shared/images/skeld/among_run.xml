@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="among_run.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="among run orange0000" x="10" y="10" width="304" height="382"/>
+	<SubTexture name="among run orange0001" x="324" y="10" width="304" height="382"/>
+	<SubTexture name="among run orange0002" x="638" y="10" width="304" height="382"/>
+	<SubTexture name="among run orange0003" x="10" y="402" width="304" height="382"/>
+	<SubTexture name="among run orange0004" x="324" y="402" width="304" height="382"/>
+	<SubTexture name="among run orange0005" x="638" y="402" width="304" height="382"/>
+	<SubTexture name="among run orange0006" x="10" y="794" width="304" height="382"/>
+	<SubTexture name="among run orange0007" x="324" y="794" width="304" height="382"/>
+	<SubTexture name="among run orange0008" x="638" y="794" width="304" height="382"/>
+	<SubTexture name="among run orange0009" x="10" y="1186" width="304" height="382"/>
+	<SubTexture name="among run orange0010" x="324" y="1186" width="304" height="382"/>
+	<SubTexture name="among run orange0011" x="638" y="1186" width="304" height="382"/>
+</TextureAtlas>
